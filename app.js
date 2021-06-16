@@ -1,5 +1,3 @@
-// https://www.educative.io/collection/page/5429798910296064/5725579815944192/6078594150301696
-
 class IceCreamFactory {
     constructor() {
       this.createIcecream = function(flavor) {
@@ -59,10 +57,3 @@ class IceCreamFactory {
 
 
 
-echo README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/benjaminefenudu/dsihub-backend-week3.git
-git push -u origin main
